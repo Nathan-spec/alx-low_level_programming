@@ -3,14 +3,10 @@
 #include <unistd.h>
 
 /**
+ *main - Entry point
  *
- * *main - Entry point
- *
- * *
- *
- * *Return: return 1
- *
- * */
+ *Return: return 1
+ */
 
 int main(void)
 
