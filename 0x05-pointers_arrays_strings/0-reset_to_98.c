@@ -2,9 +2,8 @@
 #include <stdio.h>
 
 /**
- * Prototype function void reset_to_98.c(int *n)
- *
- * Return: 0
+ * reset_to_98 - Updates the pointer value to 98
+ * @n : Pointer value
  */
 
 void reset_to_98(int *n)
