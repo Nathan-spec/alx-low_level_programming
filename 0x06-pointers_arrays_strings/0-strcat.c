@@ -1,9 +1,10 @@
 #include "main.h"
 
-/** 
- *strcat - Concatantes two strings.
- *@dest - Pointer to the destination array.
- *@src - String to be appended.
+/**
+ *_strcat - Concatantes two strings.
+ *@dest: Pointer to the destination array.
+ *@src: String to be appended.
+ *Return: address of dest.
  */
 char *_strcat(char *dest, char *src)
 {
