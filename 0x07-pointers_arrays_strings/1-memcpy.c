@@ -4,7 +4,7 @@
  * _memcpy - input
  * @dest: input pointer to destiantion string
  * @src: input pointer to source string
- * @n: number of bytes 
+ * @n: number of bytes
  * Return: pointer to destination string
  */
 
